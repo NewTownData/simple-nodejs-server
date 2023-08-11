@@ -1,0 +1,25 @@
+{
+  "name": "simple-nodejs-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js server with API proxy",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewTownData/simple-nodejs-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "http",
+    "proxy"
+  ],
+  "author": "Voyta Krizek",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NewTownData/simple-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/NewTownData/simple-nodejs-server#readme"
+}
