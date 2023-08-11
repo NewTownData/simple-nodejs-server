@@ -1,6 +1,8 @@
 # Simple Node.js Server
 
-Simple Node.js server with API proxy
+Simple Node.js server with API proxy. It is intended for single page web applications that need to communicate with an API server.
+
+More details are in the blog post [Simple Node.js API Proxy](https://www.newtowndata.com/blog/2023-08/simple-nodejs-api-proxy.html).
 
 ## How to use the code
 
